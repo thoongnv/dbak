@@ -1,0 +1,5 @@
+[DEFAULT]
+ACCESS_TOKEN = ACCESS_TOKEN
+BACKUP_PATHS = ~/first_file
+    ~/file_dir
+    /var/second_dir
